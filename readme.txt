@@ -1,0 +1,1 @@
+ts-node file_name.ts
