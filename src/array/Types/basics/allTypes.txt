@@ -1,0 +1,33 @@
+Basic Array Types
+====================================================================================================
+Gpt source: https://chatgpt.com/c/6798241b-2428-800e-9165-acd53614700f
+
+// Find the maximum element in an array.
+//     Technique: Iteration through the array.
+
+// Find the minimum element in an array.
+//     Technique: Iteration through the array.
+
+// Calculate the sum of all elements in an array.
+//     Technique: Iteration through the array.
+
+// Reverse an array.
+//     Technique: Two-pointer approach or iterative swapping.
+
+// Check if an array is sorted.
+//     Technique: Iteration through the array.
+
+// Remove duplicates from a sorted array.
+//     Technique: Two-pointer approach.
+
+// Rotate an array to the right by k steps.
+//     Technique: Basic array manipulation.
+
+// Implement an algorithm to find the "Kth" largest element in an array.
+//     Technique: Sorting or use of max heap.
+
+// Implement an algorithm to find the "Kth" smallest element in an array.
+//     Technique: Sorting or use of min heap.
+
+// Move all zeroes to the end of the array.
+//     Technique: Two-pointer approach.
