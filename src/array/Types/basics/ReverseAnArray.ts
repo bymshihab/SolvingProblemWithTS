@@ -9,13 +9,13 @@
 
   console.log(duplicate);
 
-  // using same array
-  for (let j = 0; j < arr.length - 1; j++) {
-    let temp = arr[j];
-    arr[j] = arr[arr.length - 1 - j];
-    arr[arr.length - 1 - j] = temp;
-  }
-  console.log(arr);
+  // // using same array
+  // for (let j = 0; j < arr.length - 1; j++) {
+  //   let temp = arr[j];
+  //   arr[j] = arr[arr.length - 1 - j];
+  //   arr[arr.length - 1 - j] = temp;
+  // }
+  // console.log(arr);
 
   // without temp variable and extra array
   let arr2 = [1, 2, 3, 4, 5];
