@@ -1,1 +1,5 @@
-console.log("hello world");
+// const greeting = "hello world";
+// console.log(greeting);
+// export {};
+
+// //# sourceMappingURL=index.js.map
